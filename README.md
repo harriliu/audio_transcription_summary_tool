@@ -87,6 +87,3 @@ When running locally on Apple Silicon Macs, the application includes optimizatio
 
 ---
 
-Created with ❤️ by [Your Name]
-
-[Fork this Space](https://huggingface.co/spaces/YOUR_USERNAME/audio-transcription-app/fork) | [Report an Issue](https://huggingface.co/spaces/YOUR_USERNAME/audio-transcription-app/discussions)
