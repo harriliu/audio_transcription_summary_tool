@@ -70,7 +70,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-4. Open the URL displayed in your terminal (typically http://127.0.0.1:7860)
+4. Open the URL displayed in your terminal
 
 ## Apple Silicon (M1/M2) Users
 
