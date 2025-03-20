@@ -4,6 +4,8 @@ A powerful application that automatically transcribes speech from audio files an
 
 ![Hugging Face](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg)
 
+[Tool Demo](https://huggingface.co/spaces/harriliu1129/meeting_minutes_summarizer)
+
 ## Overview
 
 This app allows you to:
